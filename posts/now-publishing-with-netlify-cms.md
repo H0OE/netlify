@@ -1,5 +1,5 @@
 ---
-title: Now Publishing With Netlify CMS!
+title: Now yes Publishing With Netlify CMS!
 author: Will Jay
 date: 2020-01-05T07:18:52.042Z
 thumbnail: /images/netlifyicon.png
