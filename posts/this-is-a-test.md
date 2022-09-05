@@ -7,4 +7,5 @@ thumbnail: /images/pumpbeerthumb.jpg
 
 # This is just a test post
 
+
 *Let's see what happens.*
